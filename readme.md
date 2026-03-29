@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Somani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Engineering+Enthusiast;Distributed+Systems+%7C+APIs+%7C+Scalable+Architectures;Building+Reliable+and+High+Performance+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Data+Engineering+Enthusiast;DDistributed+Systems+%7C+APIs+%7C+Scalable+Architectures;Building+Reliable+and+High+Performance+Systems" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 - 💻 Backend Engineer with **3 years of experience** building scalable systems  
 - ⚡ Experienced in **APIs, distributed systems, and data-intensive applications**  
-- 🔄 Worked on high-volume systems handling **10K+ records & multi-source integrations**  
+- 🔄 Worked on high-volume systems & multi-source integrations
 - ☁️ Hands-on with **cloud, CI/CD pipelines, and containerized deployments**  
 - 🎯 Exploring opportunities in **Backend Engineering & Data Engineering**
 
@@ -62,17 +62,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=never-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=never-code&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-code&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -87,7 +81,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/raghavsomani">
+  <a href="https://linkedin.com/in/raghavsomanii">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:wtaraghavsomani@gmail.com">
