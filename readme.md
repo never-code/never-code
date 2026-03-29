@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💻 Backend Engineer with **3+ years of experience** building scalable systems  
+- 💻 Backend Engineer with **3 years of experience** building scalable systems  
 - ⚡ Experienced in **APIs, distributed systems, and data-intensive applications**  
 - 🔄 Worked on high-volume systems handling **10K+ records & multi-source integrations**  
 - ☁️ Hands-on with **cloud, CI/CD pipelines, and containerized deployments**  
